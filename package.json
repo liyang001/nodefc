@@ -1,0 +1,22 @@
+{
+  "name": "nodefc",
+  "version": "1.0.0",
+  "description": "node测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyang001/nodefc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liyang001/nodefc/issues"
+  },
+  "homepage": "https://github.com/liyang001/nodefc#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
